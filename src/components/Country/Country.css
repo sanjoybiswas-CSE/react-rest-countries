@@ -1,0 +1,11 @@
+.country-design{
+    background-color: lemonchiffon;
+    border: 5px solid salmon;
+    margin: 20px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.country-design img{
+    width: 300px;
+}
